@@ -1,0 +1,13 @@
+{
+  "resourceName": "contactapptest",
+  "policyUUID": "0f53dac3",
+  "bucketName": "contactapptest",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
